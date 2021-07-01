@@ -1,6 +1,7 @@
 confirm("wlecome to my website");
 
  var name = prompt("what type of pets have ?")
+
  //console.log(name)
  while(name != "cat" && name != "dog"){
   name = prompt("i cant help your pits ")
@@ -17,7 +18,7 @@ document.write("<div>" + "<h3>" + name +  i  +"</h3>" + "<img src='https://www.e
 else if ( name == "dog"){
   var num= prompt("how many dogs you have ")
 while(num > 5){
-  num = prompt("please enter less than 5 time to see you fav anime")
+  num = prompt("please enter less than 5 ")
 
 }
 for(var i = 0 ; i < num; i++) {
@@ -28,9 +29,13 @@ document.write("<div>" + "<h3>" + name +  i  + "</h3>" + "<img src='data:image/j
  // alert("djjsjds")
 //}
 
+ console.log(name)
+
+
 
  if (name == "cat")
  {document.write("<h4>" + name + "</h4>")}
+
 // else if(name != "cat"){
   // alert("i cant help you ")
  //}
