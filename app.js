@@ -1,4 +1,4 @@
-/*confirm("wlecome to my website");
+confirm("wlecome to my website");
 
  var name = prompt("what type of pets have cat or dog ?")
 
@@ -56,8 +56,4 @@ document.write("<img src='https://png.pngtree.com/element_our/20190530/ourmid/pn
 // else if(name != "cat"){
   // alert("i cant help you ")
  //}
-<<<<<<< HEAD
- 
-=======
- */
->>>>>>> 3c7c9c6eb18070e5649c5698d88fa9f4499b94e0
+
