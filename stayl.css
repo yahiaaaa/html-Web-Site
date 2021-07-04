@@ -1,0 +1,37 @@
+body {
+  background-color: lightblue;
+}
+
+
+p {
+ color:blueviolet;
+
+}
+div2 {
+  border: 2px solid red;
+  border-radius: 4px;
+}
+div2 {
+  background-color: rgb(138, 209, 25);
+}
+#pets
+{
+  color: red
+}
+
+li {
+  display: inline-block;
+}
+a {
+  text-decoration: none ;
+}
+header{
+  height: 90px;
+}
+
+h1 {
+  float: left;
+}
+ul {
+  float: right ;
+}
