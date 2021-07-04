@@ -1,12 +1,16 @@
+<<<<<<< HEAD
 body {
   background-color: lightblue;
 }
+=======
+>>>>>>> 3c7c9c6eb18070e5649c5698d88fa9f4499b94e0
 
 
 p {
  color:blueviolet;
 
 }
+<<<<<<< HEAD
 div2 {
   border: 2px solid red;
   border-radius: 4px;
@@ -14,6 +18,8 @@ div2 {
 div2 {
   background-color: rgb(138, 209, 25);
 }
+=======
+>>>>>>> 3c7c9c6eb18070e5649c5698d88fa9f4499b94e0
 #pets
 {
   color: red
